@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ruth Kravis"
-  avatar           : "rk_headshot_cropped.jpg"
+  avatar           : "eecs_headshot.png"
   bio              : "PhD Student <br/> University of California, Berkeley"
   location         : "Berkeley, CA"
   employer         :
@@ -101,7 +101,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/ruth-kravis/"
-  orcid            : "https://orcid.org/0000-0002-1212-0056"
+  orcid            : #"https://orcid.org/0000-0002-1212-0056"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
