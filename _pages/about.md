@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hey there! I'm Ruth, a second year PhD student in the Department of Electrical Engineering and Computer Science at University of California, Berkeley. 
+Hey there! I'm Ruth, a third year PhD student in the Department of Electrical Engineering and Computer Science at University of California, Berkeley. 
 
-I'm advised by Duncan Callaway (and am part of the epic [emac](https://emac.berkeley.edu/) lab group). 
+I'm advised by Duncan Callaway - check out our group's website [here](https://emac.berkeley.edu/). 
 
 I'm interested in all things power grids, renewable energy integration, and electricity markets. For more info on what I'm currently working on, check out [projects](/projects/).
 
